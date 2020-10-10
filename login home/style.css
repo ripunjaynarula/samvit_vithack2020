@@ -45,7 +45,7 @@ h1{
 
 
 html, body {
-  font-family: 'Hind', sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
   width: 100%;
@@ -123,4 +123,16 @@ h3 {
 .addsvg{
   max-width: 30%;
   margin-left: 20px;
+}
+.btn-primary.dl{
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  padding: 10px 10px;
+  background-color: #6695FF!important;
+  display: none;
+}
+
+.carousel-cell img:hover + .btn-primary.dl, .btn-primary.dl:hover{
+  display: inline-block;
 }
