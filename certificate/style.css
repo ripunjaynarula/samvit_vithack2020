@@ -1,0 +1,124 @@
+.certificate.body{
+    padding-top: 100px;
+    margin-bottom: 100px;
+}
+.bgrectangle{
+    position: absolute;
+    width: 1224px;
+    height: 814px;
+    
+    background: #313131;
+}
+.bluevector{
+    float: right;
+    margin-top: 2px;
+}
+.app1{
+    position: relative;
+width: 704px;
+height: 105px;
+padding-top: 50px;
+padding-left: 50px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 105px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.app2{
+    position: relative;
+
+width: 704px;
+height: 105px;
+padding-top: 20px;
+padding-left: 50px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 105px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.proud{
+    position: relative;
+    width: 704px;
+    height: 105px;
+    padding-top: 20px;
+    padding-left: 50px;
+margin-top: 30px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.5);
+}
+
+.enterName{
+    margin-left: 50px;
+    position: relative;
+width: 555px;
+border-bottom: 2px solid #6695FF;
+}
+.enterName h1{
+    color: #6695ff;
+}
+.ellipsevec{
+    padding-left: 50px;
+    margin-top: 600px;
+}
+.certLogo h1{
+    padding-left: 60px;
+    color: black;
+    font-size: 30px;
+    margin-top: -95px;
+}
+.org{
+    position: absolute;
+width: 189px;
+margin-top: -120px;
+margin-left: 820px;
+border-bottom: 3px solid #FFFFFF;
+}
+.org h1{
+    color: white;
+}
+.signature{
+    position: relative;
+width: 140px;
+height: 45px;
+margin-left: 700px;
+margin-top: 100px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 200;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+color: #FFFFFF;
+}
+.sign{
+    position: absolute;
+width: 200px;
+margin-top: 30px;
+margin-left: 680px;
+border-bottom: 3px solid #FFFFFF;
+color: white;
+}
+.proud.by{
+    padding-top: 10px;
+    margin: 20px 0px;
+    height:50px ;
+    display: inline-block;
+}
